@@ -10,6 +10,7 @@ cur = con.cursor()
 
 cur.execute("SELECT * FROM kahoot_names")
 
+#porra
 
 data = cur.fetchall()
 
